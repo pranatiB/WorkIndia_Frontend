@@ -22,6 +22,6 @@ db.json (API_endpoint):
 When we move 'Candidate 1' from Applied to Accepted, main page will look like:
 ![image](https://github.com/pranatiB/WorkIndia_Frontend/assets/81073850/a91cf83a-38a2-4b72-b9a0-7bd8d366255f)
 
-Simultaneously, if we check the backend i.e. API endpoint, we can see that data/candidate_id = data/1 is updated
+Simultaneously, if we check the backend i.e. API endpoint, we can see that data/candidateId = data/1 is updated
 ![image](https://github.com/pranatiB/WorkIndia_Frontend/assets/81073850/091ac9b0-d490-494c-8bb1-578810d7757f)
 

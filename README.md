@@ -1,6 +1,7 @@
 # Frontend Submission for WorkIndia Round 1
 
 This project is made in React.js.
+PS: Sol1.js file contains the figma based code
 
 # Problem Statement :
 1. Build a website as illustrated in the design below.
@@ -34,4 +35,4 @@ Simultaneously, if we check the backend i.e. API endpoint, we can see that data/
 2. Open terminal and type 'npm start'
 3. Open another terminal and type 'npx json-server -p 3500 -w my-app/data/db.json' to open the API URL
 
-PS: Sol1.js file contains the figma based code
+
